@@ -1,2 +1,2 @@
-# projetoHaras
-Projeto Haras, disciplina de Engenharia de Software do Mestrado do IFPB
+# Brookie
+Disciplina de Engenharia de Software do Mestrado do IFPB
